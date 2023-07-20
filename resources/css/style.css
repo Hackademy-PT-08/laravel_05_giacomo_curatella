@@ -1,0 +1,18 @@
+body {
+    background-color: #112d38;
+    color: white;
+}
+
+.nav-bg {
+    background-color: #101b27;
+}
+
+.bg-card {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.my-button-bg {
+    background-color: #112d38;
+}
